@@ -4,11 +4,11 @@ public class GiaiPhuongTrinhBac2 {
     public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
 // Nhập hệ số
-    System.out.print("Nhap he so a: "); 
+    System.out.printf("Nhap he so a: "); 
     double a= scanner.nextDouble();
-    System.out.print("Nhap he so b: ");
+    System.out.printf("Nhap he so b: ");
     double b= scanner.nextDouble();
-    System.out.print("Nhap he so c: ");
+    System.out.printf("Nhap he so c: ");
     double c= scanner.nextDouble();
 // Điều kiện là phương trình bậc 2
     if(a==0){
