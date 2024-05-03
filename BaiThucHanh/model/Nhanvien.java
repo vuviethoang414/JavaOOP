@@ -2,7 +2,7 @@ package model;
 
 public class Nhanvien {
     protected String ten;
-    protected long luong;
+    protected float luong;
     public Nhanvien(){
 
     }
