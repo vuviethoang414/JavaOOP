@@ -13,5 +13,6 @@ public class Side17chuong4 {
     for(int i=0;i<arrListString.size();i++){
         System.out.println(arrListString.get(i));
     }
+    System.out.println(arrListString);
     }
 }
