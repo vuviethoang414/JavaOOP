@@ -25,7 +25,6 @@ public class Side60Chuong4 {
         } else {
             System.out.println("Phan tu " + a + " khong ton tai! ");
         }
-    }
-    
+    } 
 }
 
