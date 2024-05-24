@@ -50,10 +50,7 @@ public class Student {
             if(std.fullName.equals(ten)){
                 SetStudent.remove(std);
                 System.out.println("Da xoa thanh cong");
-            }else{
-                System.out.println("Ten sinh vien ban nhap khong co trong danh sach ");
             }
         }
-
     }  
 }

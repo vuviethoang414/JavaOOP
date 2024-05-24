@@ -10,7 +10,7 @@ public class HashSetDemo {
         boolean nhap = true;
         while(nhap){
             Scanner sc = new Scanner(System.in );
-            System.out.println("\t\t====Nhap vao phuong thuc (number)===");
+            System.out.println("\t\t\n====Nhap vao phuong thuc (number)===");
             System.out.println("1.Them thong tin sinh vien(nhan phim 1)");
             System.out.println("2.Xoa thong tin sinh vien(nhan phim 2)");
             System.out.println("3.Sua thong tin sinh vien(nhan phim 3)");
