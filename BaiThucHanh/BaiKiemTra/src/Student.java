@@ -58,5 +58,6 @@ public class Student {
         Student std = new Student();
         std.NhapThongTin();
         ListStudent.add(std);
+        
     }   
 }
